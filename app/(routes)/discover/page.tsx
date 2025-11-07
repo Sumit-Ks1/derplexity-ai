@@ -42,8 +42,8 @@ function Discover() {
   };
 
   return (
-    <div className="px-10 md:px-20 lg:px-40 xl:px-60 mt-20">
-      <h2 className="font-bold text-3xl flex items-center gap-2">
+    <div className="px-8 md:px-20 lg:px-40 xl:px-60 mt-20">
+      <h2 className="font-bold text-2xl flex items-center gap-2">
         <Globe />
         <span>Discover</span>
       </h2>
