@@ -49,7 +49,7 @@ function ChatInputBox() {
       ])
       .select();
     // console.log(data);
-    // console.log(data[0]);
+    // Hi
     setIsLoading(false);
     // console.log(searchType);
     if (searchType == "search") {
